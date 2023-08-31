@@ -4,7 +4,7 @@ Cálculo de média, mediana, desvio padrão, total e de valor mínimo e máximo 
 
 Além dos cálculos, o programa tem como principal intuito realizar os testes unitários em cada método fazendo o uso do __JUnit__.
 
-Os testes realizados podem ser encontrados na pasta __test__ e os métodos de cálculo no pacote "calculo" na pasta src do projeto.
+Os testes realizados podem ser encontrados na pasta __test__ e os métodos de cálculo no pacote "calculo" ambos encontrados na pasta __src__ do projeto.
 <hr>
 
 TMJ! 👊
